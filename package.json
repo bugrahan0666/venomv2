@@ -1,0 +1,22 @@
+{
+  "name": "serendia-squad",
+  "version": "0.0.1",
+  "description": "Serendia Squad'tan Alosha tarafından yapılan bot.",
+  "main": "yashinu.js",
+  "scripts": {
+    "start": "node yashinu.js"
+  },
+  "dependencies": {
+    "discord.js": "12.3.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Serendia",
+    "Squad",
+    "Serendia Squad",
+    "Alosha"
+  ]
+}
